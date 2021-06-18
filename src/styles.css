@@ -59,8 +59,9 @@ li {
   color: #666;
 }
 
-.list-row {
+.list-low {
   display: flex;
   align-items: center;
   padding-bottom: 4px;
+  margin-right: 8px;
 }
